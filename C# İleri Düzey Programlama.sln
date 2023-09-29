@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dizilere_Derinlemesine_Bakis", "Dizilere_Derinlemesine_Bakis\Dizilere_Derinlemesine_Bakis.csproj", "{6D8816D2-2C91-4AD8-B6C4-E92E108735F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dizilere_Derinlemesine_Bakis", "Dizilere_Derinlemesine_Bakis\Dizilere_Derinlemesine_Bakis.csproj", "{6D8816D2-2C91-4AD8-B6C4-E92E108735F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref_return_and_ref_local", "ref_return_and_ref_local\ref_return_and_ref_local.csproj", "{ECFA747A-E160-4456-B3BB-2F8C99AE279E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ref_return_and_ref_local", "ref_return_and_ref_local\ref_return_and_ref_local.csproj", "{ECFA747A-E160-4456-B3BB-2F8C99AE279E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator_Overloading", "Operator_Overloading\Operator_Overloading.csproj", "{B1E03632-2210-4D24-8E4A-38E9E26CA03E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operator_Overloading", "Operator_Overloading\Operator_Overloading.csproj", "{B1E03632-2210-4D24-8E4A-38E9E26CA03E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implicit_Explicit_Operators_Overloading", "Implicit_Explicit_Operators_Overloading\Implicit_Explicit_Operators_Overloading.csproj", "{F00ABB55-8DC4-4361-9EB8-4AD278B565E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{B1E03632-2210-4D24-8E4A-38E9E26CA03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1E03632-2210-4D24-8E4A-38E9E26CA03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1E03632-2210-4D24-8E4A-38E9E26CA03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F00ABB55-8DC4-4361-9EB8-4AD278B565E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00ABB55-8DC4-4361-9EB8-4AD278B565E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00ABB55-8DC4-4361-9EB8-4AD278B565E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00ABB55-8DC4-4361-9EB8-4AD278B565E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
