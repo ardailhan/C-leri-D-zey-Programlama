@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception_Handling", "Excep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programatik_nesne_uretimi", "programatik_nesne_uretimi\programatik_nesne_uretimi.csproj", "{DE144372-6841-476D-A613-B13540A62FFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Yapılar", "Generic Yapılar\Generic Yapılar.csproj", "{8CBCF9E8-0806-4FF5-B582-31FD51D87276}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{DE144372-6841-476D-A613-B13540A62FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE144372-6841-476D-A613-B13540A62FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE144372-6841-476D-A613-B13540A62FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CBCF9E8-0806-4FF5-B582-31FD51D87276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBCF9E8-0806-4FF5-B582-31FD51D87276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBCF9E8-0806-4FF5-B582-31FD51D87276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBCF9E8-0806-4FF5-B582-31FD51D87276}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
