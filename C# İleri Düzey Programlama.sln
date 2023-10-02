@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operator_Overloading", "Ope
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implicit_Explicit_Operators_Overloading", "Implicit_Explicit_Operators_Overloading\Implicit_Explicit_Operators_Overloading.csproj", "{F00ABB55-8DC4-4361-9EB8-4AD278B565E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Handling", "Exception_Handling\Exception_Handling.csproj", "{F6B70057-B4A0-432A-90EB-CB84C9DBE0DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception_Handling", "Exception_Handling\Exception_Handling.csproj", "{F6B70057-B4A0-432A-90EB-CB84C9DBE0DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programatik_nesne_uretimi", "programatik_nesne_uretimi\programatik_nesne_uretimi.csproj", "{DE144372-6841-476D-A613-B13540A62FFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{F6B70057-B4A0-432A-90EB-CB84C9DBE0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6B70057-B4A0-432A-90EB-CB84C9DBE0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6B70057-B4A0-432A-90EB-CB84C9DBE0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE144372-6841-476D-A613-B13540A62FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE144372-6841-476D-A613-B13540A62FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE144372-6841-476D-A613-B13540A62FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE144372-6841-476D-A613-B13540A62FFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
