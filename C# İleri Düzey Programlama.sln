@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "programatik_nesne_uretimi",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic Yapılar", "Generic Yapılar\Generic Yapılar.csproj", "{8CBCF9E8-0806-4FF5-B582-31FD51D87276}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covariance_&_Contravariance", "Covariance_&_Contravariance\Covariance_&_Contravariance.csproj", "{416B1F9E-6563-451D-9F16-0B1488CC7237}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Covariance_&_Contravariance", "Covariance_&_Contravariance\Covariance_&_Contravariance.csproj", "{416B1F9E-6563-451D-9F16-0B1488CC7237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_Types", "Delegate_Types\Delegate_Types.csproj", "{9DD03F17-1029-40A7-B477-637A197BB4F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{416B1F9E-6563-451D-9F16-0B1488CC7237}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{416B1F9E-6563-451D-9F16-0B1488CC7237}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{416B1F9E-6563-451D-9F16-0B1488CC7237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DD03F17-1029-40A7-B477-637A197BB4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD03F17-1029-40A7-B477-637A197BB4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD03F17-1029-40A7-B477-637A197BB4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD03F17-1029-40A7-B477-637A197BB4F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
