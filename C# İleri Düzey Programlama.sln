@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Covariance_&_Contravariance
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate_Types", "Delegate_Types\Delegate_Types.csproj", "{9DD03F17-1029-40A7-B477-637A197BB4F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{E735EED0-ABF3-416D-9817-2C40CE0CAE0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events", "Events\Events.csproj", "{E735EED0-ABF3-416D-9817-2C40CE0CAE0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onceden_Tanımlanmis_Delegate_Turleri", "Onceden_Tanımlanmis_Delegate_Turleri\Onceden_Tanımlanmis_Delegate_Turleri.csproj", "{F53E69AE-6693-4172-891B-01F962BD1A18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Onceden_Tanımlanmis_Delegate_Turleri", "Onceden_Tanımlanmis_Delegate_Turleri\Onceden_Tanımlanmis_Delegate_Turleri.csproj", "{F53E69AE-6693-4172-891B-01F962BD1A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous_Structures", "Anonymous_Structures\Anonymous_Structures.csproj", "{8AB9D31F-AEB8-4712-944C-C5C0088C1D74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{F53E69AE-6693-4172-891B-01F962BD1A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F53E69AE-6693-4172-891B-01F962BD1A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F53E69AE-6693-4172-891B-01F962BD1A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB9D31F-AEB8-4712-944C-C5C0088C1D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB9D31F-AEB8-4712-944C-C5C0088C1D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB9D31F-AEB8-4712-944C-C5C0088C1D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB9D31F-AEB8-4712-944C-C5C0088C1D74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
