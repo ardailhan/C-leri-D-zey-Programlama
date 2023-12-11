@@ -25,9 +25,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events", "Events\Events.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Onceden_Tanımlanmis_Delegate_Turleri", "Onceden_Tanımlanmis_Delegate_Turleri\Onceden_Tanımlanmis_Delegate_Turleri.csproj", "{F53E69AE-6693-4172-891B-01F962BD1A18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous_Structures", "Anonymous_Structures\Anonymous_Structures.csproj", "{8AB9D31F-AEB8-4712-944C-C5C0088C1D74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anonymous_Structures", "Anonymous_Structures\Anonymous_Structures.csproj", "{8AB9D31F-AEB8-4712-944C-C5C0088C1D74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpandoObject", "ExpandoObject\ExpandoObject.csproj", "{93AD6088-C06C-4E4E-A4B2-F0D3E32A0997}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpandoObject", "ExpandoObject\ExpandoObject.csproj", "{93AD6088-C06C-4E4E-A4B2-F0D3E32A0997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access_Modifiers", "Access_Modifiers\Access_Modifiers.csproj", "{B7A7F300-0459-4378-93D2-47535BC26CB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Access Modifiers", "Access Modifiers", "{2D12D6A7-AB24-4F91-A668-DC8E7D0BBC32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{31E8CE2D-CA9F-4E15-92BC-9B28D1A89B41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,9 +93,21 @@ Global
 		{93AD6088-C06C-4E4E-A4B2-F0D3E32A0997}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93AD6088-C06C-4E4E-A4B2-F0D3E32A0997}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93AD6088-C06C-4E4E-A4B2-F0D3E32A0997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7A7F300-0459-4378-93D2-47535BC26CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A7F300-0459-4378-93D2-47535BC26CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A7F300-0459-4378-93D2-47535BC26CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A7F300-0459-4378-93D2-47535BC26CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E8CE2D-CA9F-4E15-92BC-9B28D1A89B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E8CE2D-CA9F-4E15-92BC-9B28D1A89B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E8CE2D-CA9F-4E15-92BC-9B28D1A89B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E8CE2D-CA9F-4E15-92BC-9B28D1A89B41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B7A7F300-0459-4378-93D2-47535BC26CB4} = {2D12D6A7-AB24-4F91-A668-DC8E7D0BBC32}
+		{31E8CE2D-CA9F-4E15-92BC-9B28D1A89B41} = {2D12D6A7-AB24-4F91-A668-DC8E7D0BBC32}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2B5953AF-BEC4-4198-A784-3ED054BA1955}
